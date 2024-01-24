@@ -1,0 +1,3 @@
+module dev.aspectj.example {
+  requires java.xml;
+}
